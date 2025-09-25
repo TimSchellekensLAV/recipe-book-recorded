@@ -12,3 +12,5 @@
 - put oil and butter in pan
 - coat steak with salt
 - sear steak in pan for 2 minutes each side
+- let rest for 5 min
+- add pepper
